@@ -1,6 +1,6 @@
-NAME :KUMUDHINI T
-REG NO:212222040084
-DATE:
+# NAME : KUMUDHINI T 
+# REG NO : 212222040084
+# DATE :
 
 # Aim
 To generte Frequency modulated wave for given specification
